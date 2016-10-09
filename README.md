@@ -1,1 +1,1 @@
-# Ru-translate-AnyBurn
+# Russian translation-AnyBurn
